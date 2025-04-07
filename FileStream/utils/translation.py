@@ -5,51 +5,51 @@ class LANG(object):
 
     START_TEXT = """
 <b>👋 Hᴇʏ, </b>{}\n 
-<b>I'ᴍ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇs sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴀs ᴡᴇʟʟ ᴅɪʀᴇᴄᴛ ʟɪɴᴋs ɢᴇɴᴇʀᴀᴛᴏʀ</b>\n
-<b>ᴡᴏʀᴋɪɴɢ ᴏɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ</b>\n
+<b>I'ᴍ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏs/ғɪʟᴇs ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ 😈</b>\n
+<b>Just Send me Any Video/PDF and See My Magic 😃</b>\n
 <b>💕 @{}</b>\n"""
 
     HELP_TEXT = """
-<b>- ᴀᴅᴅ ᴍᴇ ᴀs ᴀɴ ᴀᴅᴍɪɴ ᴏɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ</b>
 <b>- sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅᴏᴄᴜᴍᴇɴᴛ ᴏʀ ᴍᴇᴅɪᴀ</b>
-<b>- ɪ'ʟʟ ᴘʀᴏᴠɪᴅᴇ sᴛʀᴇᴀᴍᴀʙʟᴇ ʟɪɴᴋ</b>\n
-<b>🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.</b>\n
-<i><b> ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ <a href='https://telegram.me/AvishkarPatil'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b></i>"""
+<b>- ɪ'ʟʟ ᴘʀᴏᴠɪᴅᴇ ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ</b>\n
+<b>🔞 𝗔𝗱𝘂𝗹𝘁 Video Bhejana toh Tere hi Gend ke Ched mein Lond ghusa dunga 💀</b>\n
+<i><b> ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ <a href='https://telegram.me/TEAM_OPTECH'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b></i>"""
 
     ABOUT_TEXT = """
 <b>⚜ ᴍʏ ɴᴀᴍᴇ : {}</b>\n
 <b>✦ ᴠᴇʀsɪᴏɴ : {}</b>
-<b>✦ ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ : 06-January-2024</b>
-<b>✦ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AvishkarPatil'>Avishkar Patil</a></b>\n
+<b>✦ ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ : 2014</b>
+<b>✦ ᴍᴇʀᴀ ʙᴀᴀᴘ 🙏 : <a href='https://telegram.me/HACKHEISTBOT'>HACKHEIST</a></b>\n
 """
 
     STREAM_TEXT = """
-<i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <b>{}</b>\n
-<b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <code>{}</code>\n
-<b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <code>{}</code>\n
-<b>🖥 Wᴀᴛᴄʜ :</b> <code>{}</code>\n
-<b>🔗 Sʜᴀʀᴇ :</b> <code>{}</code>\n"""
+<i><u>𝗟𝗲 𝗧𝗲𝗿𝗶 𝗟𝗶𝗻𝗸 🥰</u></i>\n
+<b>📂 ʙᴀɴᴅɪ ᴋᴀ ɴᴀᴍᴇ :</b> <b>{}</b>\n
+<b>📦 ʙᴀɴᴅɪ ᴋᴀ ᴡᴇɪɢʜᴛ :</b> <code>{}</code>\n
+<b>📥 ᴘᴀᴛᴀɴᴇ ᴋᴀ ᴍᴇᴛʜᴏᴅ :</b> <code>{}</code>\n
+<b>🖥 ᴘᴀᴛᴀɴᴇ ᴋᴇ ʙᴀᴀᴅ :</b> <code>{}</code>\n
+<b>🔗 ᴋʜᴏᴛᴀ ᴋʜᴜᴅᴀɪ :</b> <code>{}</code>\n"""
 
     STREAM_TEXT_X = """
-<i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <b>{}</b>\n
-<b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <code>{}</code>\n
-<b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <code>{}</code>\n
-<b>🔗 Sʜᴀʀᴇ :</b> <code>{}</code>\n"""
+<i><u>𝗟𝗲 𝗧𝗲𝗿𝗶 𝗟𝗶𝗻𝗸 🥰</u></i>\n
+<b>📂 ʙᴀɴᴅɪ ᴋᴀ ɴᴀᴍᴇ :</b> <b>{}</b>\n
+<b>📦 ʙᴀɴᴅɪ ᴋᴀ ᴡᴇɪɢʜᴛ :</b> <code>{}</code>\n
+<b>📥 ᴘᴀᴛᴀɴᴇ ᴋᴀ ᴍᴇᴛʜᴏᴅ :</b> <code>{}</code>\n
+<b>🖥 ᴘᴀᴛᴀɴᴇ ᴋᴇ ʙᴀᴀᴅ :</b> <code>{}</code>\n
+<b>🔗 ᴋʜᴏᴛᴀ ᴋʜᴜᴅᴀɪ :</b> <code>{}</code>\n"""
 
 
-    BAN_TEXT = "__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id={}) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
+    BAN_TEXT = "**__ʙʜᴀᴋ ʙsᴅᴋ, ʙᴀɴ ᴋᴀʀᴅɪʏᴀ ʜᴜ sᴏᴄʜɴᴀ ʙʜɪ ᴍᴀᴀᴛ ᴋɪ ᴜɴʙᴀɴ ᴋᴀʀᴅᴜɴɢᴀ 🤬.__\n\n**"
 
 
 class BUTTON(object):
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
+            InlineKeyboardButton('ᴍᴀᴅᴀᴅ', callback_data='help'),
+            InlineKeyboardButton('ᴊᴀᴀɴᴋᴀʀᴏ', callback_data='about'),
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
         ],
-            [InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
+            [InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🥰", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
         ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
@@ -58,7 +58,7 @@ class BUTTON(object):
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close'),
         ],
-            [InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
+            [InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🥰", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
         ]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
@@ -67,6 +67,6 @@ class BUTTON(object):
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close'),
         ],
-            [InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
+            [InlineKeyboardButton("📢 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🥰", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
         ]
     )
