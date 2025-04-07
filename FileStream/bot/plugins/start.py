@@ -75,7 +75,7 @@ async def start(bot: Client, message: Message):
             except FIleNotFound as e:
                 await message.reply_text("**File Not Found**")
             except Exception as e:
-                await message.reply_text("Something Went Wrong")
+                await message.reply_text("**File/Video Server se udd gya 🥺")
                 logging.error(e)
 
         else:
